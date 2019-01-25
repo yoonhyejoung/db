@@ -1,0 +1,8 @@
+### mysql 명령어
+로그인 명령어 mysql -u root -p 
+
+비밀번호 변경 mysqladmin -u root -p$rootpw password
+
+데이터베이스 생성 CREATE DATABASE login 
+
+데이터베이스 삭제 drop database login;
